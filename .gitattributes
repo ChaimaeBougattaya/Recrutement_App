@@ -1,2 +1,2 @@
 *.css linguist-detectable=false
-*.java linguist-detectable=true
+*.scss linguist-detectable=true
